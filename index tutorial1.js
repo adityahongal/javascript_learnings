@@ -3,8 +3,8 @@
 
  // Variable tutorial
 
- let name = 'Addy';
- console.log(name);
+ //let name = 'Addy';
+ //console.log(name);
 
  // Rules for naming Variables
  // 1. Cannot be a reserved keyword like let,var,if,else,etc. Example--- let if = 'Addy';
@@ -16,15 +16,15 @@
 
  // declaring multiple variable
 
- let firstName = 'Addy', lastName = 'xtinx';
- console.log(firstName,lastName);
+ //let firstName = 'Addy', lastName = 'xtinx';
+ //console.log(firstName,lastName);
 
  // Constants Tutorial
 
- const interestRate = 0.3;
- console.log(interestRate);
+ //const interestRate = 0.3;
+ //console.log(interestRate);
 
 // Types of Variable tutorial --- 1. Primitive/Value types 2. Reference type
 // Primitive/value type
 
-let name = 'addy';
+//let name = 'addy';
